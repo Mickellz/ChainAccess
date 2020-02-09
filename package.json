@@ -1,0 +1,21 @@
+{
+  "name": "CypherNetwork",
+  "version": "1.0.0",
+  "description": "blah",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll",
+    "testing": "nodemon testing"
+  },
+  "keywords": [],
+  "author": "GoldenGates",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "jest": "^25.1.0",
+    "nodemon": "^2.0.2"
+  },
+  "dependencies": {
+    "crypto-js": "^3.1.9-1"
+  }
+}
